@@ -95,8 +95,13 @@
         </li>
 </section>
 
-
+<section>
+    <h2>Link do Projeto</h2>
+    <p>Você pode visualizar e interagir com o projeto completo online clicando no link abaixo:</p>
+    <a href="https://wokwi.com/projects/415280966212364289" class="button-link" target="_blank">Acessar Projeto no Wokwi</a>
+</section>
 <footer>
+    <p><br><br><p>
     <p>Integrantes: <br>Fernando Reis | Rm: 559505 <br>Miguel Aguiar | Rm: 559589 <br>Guilherme Leite | Rm: 560131 </p>
 </footer>
 
